@@ -1,5 +1,5 @@
 # my_runner
-Usage : ./my_runner [map]
-help: ./my_runner -h 
+Usage : ./my_runner [map],
+for help and commands: ./my_runner -h
 
-Il y a des maps test dans levels/
+There is already 3 different levels in levels/
